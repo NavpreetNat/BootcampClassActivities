@@ -7,8 +7,9 @@
 
 ## Table of Contents
 
-**Week 1, Lesson 3**    [Week 1, Lesson 3](https://github.com/NavpreetNat/BootcampClassActivities/tree/main/Week1Lesson3Activities)
-    *Activity 1*        [Activity 1](https://github.com/NavpreetNat/BootcampClassActivities/tree/main/Week1Lesson3Activities/activity1)
+**Week 1, Lesson 3** [Week 1, Lesson 3](https://github.com/NavpreetNat/BootcampClassActivities/tree/main/Week1Lesson3Activities)
+
+*Activity 1* [Activity 1](https://github.com/NavpreetNat/BootcampClassActivities/tree/main/Week1Lesson3Activities/activity1)
 
 ---
 
