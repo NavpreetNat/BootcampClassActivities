@@ -1,6 +1,13 @@
 # BootcampClassActivities
 
+*Description*
 ## Activities completed during FinTech boot-camp online zoom sessions
+
+![Rocket Ship!](C:\Users\navpr\Pictures\rocketship.jpg "Rocket Ship")
+
+### Table of Contents
+
+
 
 ---
 
