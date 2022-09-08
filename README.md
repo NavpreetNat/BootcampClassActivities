@@ -1,17 +1,19 @@
 # BootcampClassActivities
 
 *Description*
-## Activities completed during FinTech boot-camp online zoom sessions
+### Activities completed during FinTech boot-camp online zoom sessions
 
-![Rocket Ship!](C:\Users\navpr\Pictures\rocketship.jpg "Rocket Ship")
+[![Rocket Ship!](C:\Users\navpr\Pictures\rocketship.jpg "Rocket Ship")](https://media.istockphoto.com/photos/space-shuttle-rocket-launch-in-the-sky-and-clouds-to-outer-space-sky-picture-id1344443930?b=1&k=20&m=1344443930&s=170667a&w=0&h=OFxY7InQfBGsBLkPuUBZECWkS3H9kc3rY1O2FaahXvo=)
 
-### Table of Contents
+## Table of Contents
 
 
 
 ---
 
 *Naming convention for folders*
+
+---
 
 The folders for each week and lesson have been aptly named:
 
