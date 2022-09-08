@@ -2,7 +2,7 @@
 
 **Who am I, and what is my background?**
 
-My name's Navpreet, but you can call me Nav! I'm 25 and have spent the last 5 of my years pursuing a career in real estate sales, finally reaching the Sydney CBD market in 2019. As of May of this year (2022), I realised that I was chasing the wrong path and decided to pivot towards career aspects that're more inline with my true calling.
+My name's Navpreet, but you can call me Nav! I'm 25 and have spent the last 5 of my years pursuing a career in real estate sales, finally reaching the Sydney CBD market in 2019. As of May of this year (2022), I realised that I was chasing the wrong path and decided to redirect towards career aspects that're more inline with my true calling.
 
 ---
 
