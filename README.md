@@ -1,7 +1,6 @@
 # Bootcamp Class Activities
 
-*Description*
-### Activities completed during FinTech boot-camp online zoom sessions
+*Activities completed during FinTech boot-camp online zoom sessions*
 
 ![](rocketship.jpg)
 
@@ -38,3 +37,7 @@
 * **Lesson 3** [Week 3, Lesson 3](https://github.com/NavpreetNat/BootcampClassActivities/tree/main/week3/week3lesson3/Class_3_Activities/Class_3_Activities)
 
 ---
+
+*Miscellaneous*
+
+* [**Terminal Cheatsheet**](https://github.com/NavpreetNat/BootcampClassActivities/blob/main/week3/week3lesson1/Class_1_Activities/Class_1_Activities/01-terminal-01/Unsolved/Terminal-Cheatsheet.md)
